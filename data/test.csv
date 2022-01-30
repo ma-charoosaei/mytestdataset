@@ -1,9 +1,9 @@
 FileName,Xmin,Xmax,Ymin,Ymax,ClassName
-test (1).png,68,157,104,163,screw
-test (2).png,93,188,134,185,screw
-test (11).png,128,202,115,187,nut
-test (12).png,52,178,68,186,nut
-test (21).png,43,191,33,229,key
-test (22).png,36,210,34,206,key
-test (31).png,3,237,6,229,coin
-test (32).png,44,219,33,202,coin
+test (1).png,68,157,104,163,1
+test (2).png,93,188,134,185,1
+test (11).png,128,202,115,187,2
+test (12).png,52,178,68,186,2
+test (21).png,43,191,33,229,3
+test (22).png,36,210,34,206,3
+test (31).png,3,237,6,229,4
+test (32).png,44,219,33,202,4
